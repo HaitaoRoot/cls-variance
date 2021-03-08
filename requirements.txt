@@ -1,1 +1,2 @@
 streamlit == 0.59
+tornado == 5.1.1
