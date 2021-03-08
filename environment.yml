@@ -1,0 +1,13 @@
+name: cls-variance
+channels:
+  - conda-forge
+dependencies:
+  - conda
+  - pandas
+  - numpy
+  - catboost
+  - pip
+  - pickle
+  - pycaret
+  - pip:
+    - streamlit
